@@ -27,7 +27,7 @@ A passionate **Full Stack Web Developer** & **Android Developer** with a B.S. in
 ### 📫 Connect With Me
 - 🌐 **Portfolio:** [mhportfoli.netlify.app](https://mhportfoli.netlify.app)
 - 💼 **LinkedIn:** [Mihretu Hizkel](https://www.linkedin.com/in/mihretu-hizkel-734105260/)
-- 📧 **Email:** *your-email@example.com*
+- 📧 **Email:** mihretuhizkel380@gmail.com
 
 ---
 
