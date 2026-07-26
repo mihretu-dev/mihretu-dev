@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there, I'm Mihretu Hizkel 👋
 
-<!--
-**mihretu-dev/mihretu-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate **Full Stack Web Developer** & **Android Developer** with a B.S. in Information Systems from **Hawassa University** 🎓. I enjoy building clean, scalable applications and combining software development with AI to create smarter user experiences.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+
+**Languages & Core:**  
+`Java` `Python` `JavaScript` `C++` `SQL` `Kotlin`
+
+**Web & Mobile Development:**  
+`HTML5` `CSS3` `Node.js` `Android SDK` `Full Stack Development`
+
+**Tools & Databases:**  
+`Git` `GitHub` `MySQL` `REST APIs`
+
+---
+
+### 🚀 Featured Projects
+- 🏢 **[HR Management System](https://github.com/mihretu-dev/HRSystem):** A computerized HR system built with Java to manage employee records and daily operations.
+- 📊 **[GPA Calculator](https://github.com/mihretu-dev/GPA_Calculator):** A web application designed to compute and track academic grade point averages.
+- 🌐 **[Personal Portfolio](https://mhportfoli.netlify.app):** My live portfolio showcasing projects, experience, and contact details.
+
+---
+
+### 📫 Connect With Me
+- 🌐 **Portfolio:** [mhportfoli.netlify.app](https://mhportfoli.netlify.app)
+- 💼 **LinkedIn:** [Mihretu Hizkel](https://www.linkedin.com/in/mihretu-hizkel-734105260/)
+- 📧 **Email:** *your-email@example.com*
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mihretu-dev&show_icons=true&theme=radial" alt="Mihretu's GitHub Stats" />
+</p>
