@@ -20,12 +20,12 @@ A passionate **Full Stack Web Developer** & **Android Developer** with a B.S. in
 ### 🚀 Featured Projects
 - 🏢 **[HR Management System](https://github.com/mihretu-dev/HRSystem):** A computerized HR system built with Java to manage employee records and daily operations.
 - 📊 **[GPA Calculator](https://github.com/mihretu-dev/GPA_Calculator):** A web application designed to compute and track academic grade point averages.
-- 🌐 **[Personal Portfolio](https://mhportfoli.netlify.app):** My live portfolio showcasing projects, experience, and contact details.
+- 🌐 **[Personal Portfolio](https://portfolio-r0trdgjkt-mh-c9f5.vercel.app):** My live portfolio showcasing projects, experience, and contact details.
 
 ---
 
 ### 📫 Connect With Me
-- 🌐 **Portfolio:** [mhportfoli.netlify.app](https://mhportfoli.netlify.app)
+- 🌐 **Portfolio:** [mhportfoli.netlify.app](https://portfolio-r0trdgjkt-mh-c9f5.vercel.app)
 - 💼 **LinkedIn:** [Mihretu Hizkel](https://www.linkedin.com/in/mihretu-hizkel-734105260/)
 - 📧 **Email:** mihretuhizkel380@gmail.com
 
