@@ -25,7 +25,7 @@ A passionate **Full Stack Web Developer** & **Android Developer** with a B.S. in
 ---
 
 ### 📫 Connect With Me
-- 🌐 **Portfolio:** [portfolio-r0trdgjkt-mh-c9f5.vercel.app](https://portfolio-tan-one-84.vercel.app/)
+- 🌐 **Portfolio:** [portfolio-tan-one-84.vercel.app](https://portfolio-tan-one-84.vercel.app/)
 - 💼 **LinkedIn:** [Mihretu Hizkel](https://www.linkedin.com/in/mihretu-hizkel-734105260/)
 - 📧 **Email:** mihretuhizkel380@gmail.com
 
