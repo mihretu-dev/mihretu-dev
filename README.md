@@ -18,6 +18,7 @@ A passionate **Full Stack Web Developer** & **Android Developer** with a B.S. in
 ---
 
 ### 🚀 Featured Projects
+- 📱 [HomeWorkoutApp](https://github.com/mihretu-dev/HomeWorkoutApp): Offline-first Android fitness & custom workout tracking app built with Jetpack Compose, Room DB, & WorkManager. [[📥 Download APK](https://github.com/mihretu-dev/HomeWorkoutApp/releases/latest)]
 - 🏢 **[HR Management System](https://github.com/mihretu-dev/HRSystem):** A computerized HR system built with Java to manage employee records and daily operations.
 - 📊 **[GPA Calculator](https://github.com/mihretu-dev/GPA_Calculator):** A web application designed to compute and track academic grade point averages.
 - 🌐 **[Personal Portfolio](https://portfolio-tan-one-84.vercel.app/):** My live portfolio showcasing projects, experience, and contact details.
