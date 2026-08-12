@@ -126,8 +126,8 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/mihretu-dev/Insta_analyzer">
-    <img src="https://img.shields.io/badge/🔍_View_Insta_Analyzer-Client--side-E4405F?style=for-the-badge&logo=react&logoColor=white" alt="Insta Analyzer" />
+  <a href="https://insta-analyzer-rho.vercel.app/">
+    <img src="https://img.shields.io/badge/🔍_Explore_Insta_Analyzer-Live_Demo-E4405F?style=for-the-badge&logo=react&logoColor=white" alt="Insta Analyzer" />
   </a>
   &nbsp;&nbsp;
   <a href="https://portfolio-tan-one-84.vercel.app/">
