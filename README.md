@@ -73,10 +73,20 @@
 
 ---
 
-<!-- ACTIVITY GRAPH -->
+<!-- ACTIVITY GRAPH & SNAKE -->
+
+## 📈 Activity & Contributions
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mihretu-dev&bg_color=0D1117&color=6C63FF&line=3F8EFC&point=00D2FF&area=true&area_color=6C63FF&hide_border=true" alt="Activity Graph" width="95%" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mihretu-dev/mihretu-dev/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mihretu-dev/mihretu-dev/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mihretu-dev/mihretu-dev/output/github-contribution-grid-snake-dark.svg" width="95%">
+  </picture>
 </p>
 
 ---
@@ -94,6 +104,16 @@
   </a>
 </div>
 
+<p align="center">
+  <a href="https://github.com/mihretu-dev/HomeWorkoutApp/releases/latest">
+    <img src="https://img.shields.io/badge/📥_Download_APK-HomeWorkoutApp-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Download APK" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/mihretu-dev/ai-resume-builder">
+    <img src="https://img.shields.io/badge/🚀_Explore_AI_Resume-Gemini_API-6C63FF?style=for-the-badge&logo=google&logoColor=white" alt="AI Resume Demo" />
+  </a>
+</p>
+
 <br />
 
 <div align="center">
@@ -105,11 +125,21 @@
   </a>
 </div>
 
+<p align="center">
+  <a href="https://github.com/mihretu-dev/Insta_analyzer">
+    <img src="https://img.shields.io/badge/🔍_View_Insta_Analyzer-Client--side-E4405F?style=for-the-badge&logo=react&logoColor=white" alt="Insta Analyzer" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://portfolio-tan-one-84.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_Visit_Portfolio-Live_Site-00D2FF?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Portfolio Site" />
+  </a>
+</p>
+
 <br />
 
 <p align="center">
   <a href="https://github.com/mihretu-dev?tab=repositories">
-    <img src="https://img.shields.io/badge/View_All_Projects_→-6C63FF?style=for-the-badge&logoColor=white" alt="View All Projects" />
+    <img src="https://img.shields.io/badge/View_All_11_Repositories_→-6C63FF?style=for-the-badge&logoColor=white" alt="View All Projects" />
   </a>
 </p>
 
