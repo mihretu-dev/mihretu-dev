@@ -1,7 +1,7 @@
 <!-- ANIMATED HEADER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:3F8EFC,100:00D2FF&height=220&section=header&text=Mihretu%20Hizkel&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Full%20Stack%20Web%20%26%20Android%20Developer&descSize=18&descAlignY=55&descColor=E0E0FF&animation=fadeIn" alt="header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:3F8EFC,100:00D2FF&height=220&section=header&text=Mihretu%20Hizkel&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Full%20Stack%20Web%20and%20Android%20Developer&descSize=18&descAlignY=55&descColor=E0E0FF&animation=fadeIn" alt="header" width="100%" />
 </p>
 
 <!-- TYPING SVG -->
@@ -18,23 +18,17 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Butterfly.png" width="90" />
+🎓 **Education:** B.S. in **Information Systems** from **Hawassa University**, Ethiopia 🇪🇹
 
-🎓 B.S. in **Information Systems** from **Hawassa University**, Ethiopia
+💻 **Passionate about:** Clean, scalable applications and blending software development with AI
 
-💻 Passionate about **clean, scalable applications** and blending dev with AI
+📱 **Mobile:** Building **native Android applications** using Kotlin & Jetpack Compose
 
-📱 Building **native Android apps** with Kotlin & Jetpack Compose
+🌐 **Web:** Crafting **full-stack web applications** with Next.js, React, & Node.js
 
-🌐 Crafting **full-stack web apps** with Next.js, React, & Node.js
+🌱 **Learning:** Currently exploring **AI-powered development tools** & modern tech stacks
 
-🌍 Based in **Ethiopia** 🇪🇹
-
-🌱 Currently exploring **AI-powered development tools**
-
-⚡ Fun fact: I love turning ideas into polished products
-
-<br clear="both" />
+⚡ **Fun Fact:** I love turning creative ideas into polished, user-ready products
 
 ---
 
@@ -67,9 +61,11 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mihretu-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=3F8EFC&text_color=C9D1D9&ring_color=6C63FF&count_private=true&include_all_commits=true" alt="Mihretu's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihretu-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" height="180" />
+  <img src="https://github-stats-extended.vercel.app/api?username=mihretu-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=3F8EFC&text_color=C9D1D9&ring_color=6C63FF&count_private=true&include_all_commits=true" alt="Mihretu's GitHub Stats" height="180" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mihretu-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" height="180" />
 </div>
+
+<br />
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=mihretu-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=00D2FF&currStreakLabel=6C63FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" width="520" />
@@ -91,21 +87,25 @@
 
 <div align="center">
   <a href="https://github.com/mihretu-dev/HomeWorkoutApp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mihretu-dev&repo=HomeWorkoutApp&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=3F8EFC&text_color=C9D1D9" alt="HomeWorkoutApp" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=mihretu-dev&repo=HomeWorkoutApp&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=3F8EFC&text_color=C9D1D9" alt="HomeWorkoutApp" />
   </a>
   <a href="https://github.com/mihretu-dev/ai-resume-builder">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mihretu-dev&repo=ai-resume-builder&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=3F8EFC&text_color=C9D1D9" alt="AI Resume Builder" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=mihretu-dev&repo=ai-resume-builder&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=3F8EFC&text_color=C9D1D9" alt="AI Resume Builder" />
   </a>
 </div>
 
+<br />
+
 <div align="center">
   <a href="https://github.com/mihretu-dev/Insta_analyzer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mihretu-dev&repo=Insta_analyzer&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=3F8EFC&text_color=C9D1D9" alt="Insta Analyzer" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=mihretu-dev&repo=Insta_analyzer&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=3F8EFC&text_color=C9D1D9" alt="Insta Analyzer" />
   </a>
   <a href="https://github.com/mihretu-dev/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mihretu-dev&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=3F8EFC&text_color=C9D1D9" alt="Portfolio" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=mihretu-dev&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=3F8EFC&text_color=C9D1D9" alt="Portfolio" />
   </a>
 </div>
+
+<br />
 
 <p align="center">
   <a href="https://github.com/mihretu-dev?tab=repositories">
