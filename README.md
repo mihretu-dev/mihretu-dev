@@ -96,21 +96,42 @@
 ## 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/mihretu-dev/HomeWorkoutApp">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=mihretu-dev&repo=HomeWorkoutApp&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=3F8EFC&text_color=C9D1D9" alt="HomeWorkoutApp" />
+  <a href="https://github.com/mihretu-dev/sme-voice-assistant">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=mihretu-dev&repo=sme-voice-assistant&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=3F8EFC&text_color=C9D1D9" alt="SME Voice Assistant" />
   </a>
-  <a href="https://github.com/mihretu-dev/ai-resume-builder">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=mihretu-dev&repo=ai-resume-builder&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=3F8EFC&text_color=C9D1D9" alt="AI Resume Builder" />
+  <a href="https://github.com/mihretu-dev/Wi-Fi-Device-Manager">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=mihretu-dev&repo=Wi-Fi-Device-Manager&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=3F8EFC&text_color=C9D1D9" alt="Wi-Fi Device Manager" />
   </a>
 </div>
 
 <p align="center">
-  <a href="https://github.com/mihretu-dev/HomeWorkoutApp/releases/latest">
-    <img src="https://img.shields.io/badge/📥_Download_APK-HomeWorkoutApp-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Download APK" />
+  <a href="https://sme-voice-assistant.ethiodeploy.com/">
+    <img src="https://img.shields.io/badge/🎙️_Explore_Voice_Assistant-Live_Demo-6C63FF?style=for-the-badge&logo=microphone&logoColor=white" alt="SME Voice Assistant Demo" />
   </a>
   &nbsp;&nbsp;
+  <a href="https://github.com/mihretu-dev/Wi-Fi-Device-Manager">
+    <img src="https://img.shields.io/badge/📶_Wi--Fi_Device_Manager-Kotlin_Compose-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Wi-Fi Manager Repo" />
+  </a>
+</p>
+
+<br />
+
+<div align="center">
   <a href="https://github.com/mihretu-dev/ai-resume-builder">
-    <img src="https://img.shields.io/badge/🚀_Explore_AI_Resume-Gemini_API-6C63FF?style=for-the-badge&logo=google&logoColor=white" alt="AI Resume Demo" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=mihretu-dev&repo=ai-resume-builder&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=3F8EFC&text_color=C9D1D9" alt="AI Resume Builder" />
+  </a>
+  <a href="https://github.com/mihretu-dev/HomeWorkoutApp">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=mihretu-dev&repo=HomeWorkoutApp&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=3F8EFC&text_color=C9D1D9" alt="HomeWorkoutApp" />
+  </a>
+</div>
+
+<p align="center">
+  <a href="https://ai-resume-builder-wr7g.vercel.app/">
+    <img src="https://img.shields.io/badge/🤖_Explore_AI_Resume-Gemini_API-00D2FF?style=for-the-badge&logo=google&logoColor=white" alt="AI Resume Demo" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/mihretu-dev/HomeWorkoutApp/releases/latest">
+    <img src="https://img.shields.io/badge/📥_Download_APK-HomeWorkoutApp-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Download APK" />
   </a>
 </p>
 
@@ -120,8 +141,8 @@
   <a href="https://github.com/mihretu-dev/Insta_analyzer">
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=mihretu-dev&repo=Insta_analyzer&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=3F8EFC&text_color=C9D1D9" alt="Insta Analyzer" />
   </a>
-  <a href="https://github.com/mihretu-dev/portfolio">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=mihretu-dev&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=3F8EFC&text_color=C9D1D9" alt="Portfolio" />
+  <a href="https://github.com/mihretu-dev/qr-hotel-menu">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=mihretu-dev&repo=qr-hotel-menu&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=3F8EFC&text_color=C9D1D9" alt="QR Hotel Menu" />
   </a>
 </div>
 
@@ -130,8 +151,29 @@
     <img src="https://img.shields.io/badge/🔍_Explore_Insta_Analyzer-Live_Demo-E4405F?style=for-the-badge&logo=react&logoColor=white" alt="Insta Analyzer" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://portfolio-tan-one-84.vercel.app/">
+  <a href="https://qr-hotel-menu-cyan.vercel.app/">
+    <img src="https://img.shields.io/badge/🍽️_Haile_Resort_Menu-Live_Demo-FF9900?style=for-the-badge&logo=html5&logoColor=white" alt="QR Hotel Menu" />
+  </a>
+</p>
+
+<br />
+
+<div align="center">
+  <a href="https://github.com/mihretu-dev/portfolio">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=mihretu-dev&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=3F8EFC&text_color=C9D1D9" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/mihretu-dev/GPA_Calculator">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=mihretu-dev&repo=GPA_Calculator&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=3F8EFC&text_color=C9D1D9" alt="GPA Calculator" />
+  </a>
+</div>
+
+<p align="center">
+  <a href="https://portfolio-mh-c9f5.vercel.app/">
     <img src="https://img.shields.io/badge/🌐_Visit_Portfolio-Live_Site-00D2FF?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Portfolio Site" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://gpa-calculator-nu-nine.vercel.app/">
+    <img src="https://img.shields.io/badge/🎓_GPA_Calculator-Live_Demo-3F8EFC?style=for-the-badge&logo=typescript&logoColor=white" alt="GPA Calculator Demo" />
   </a>
 </p>
 
@@ -139,7 +181,7 @@
 
 <p align="center">
   <a href="https://github.com/mihretu-dev?tab=repositories">
-    <img src="https://img.shields.io/badge/View_All_11_Repositories_→-6C63FF?style=for-the-badge&logoColor=white" alt="View All Projects" />
+    <img src="https://img.shields.io/badge/View_All_Repositories_→-6C63FF?style=for-the-badge&logoColor=white" alt="View All Projects" />
   </a>
 </p>
 
@@ -162,7 +204,7 @@
   <a href="mailto:mihretuhizkel380@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://portfolio-tan-one-84.vercel.app/">
+  <a href="https://portfolio-mh-c9f5.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
